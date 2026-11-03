@@ -1,0 +1,13 @@
+# Xcode build output
+build/
+DerivedData/
+
+# Per-user Xcode state
+xcuserdata/
+*.xcuserstate
+
+# macOS
+.DS_Store
+
+# Simulator screenshots from design iterations
+Screenshots/
